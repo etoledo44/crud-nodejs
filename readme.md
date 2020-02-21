@@ -1,6 +1,6 @@
 # API Crud
 
-Hi! This is my project using JavaScript and I used **node.js** for the back-end application. So to this application I build an API with his concepts and methods.
+Hi! This is my project using JavaScript and I used **node.js** :green_heart: for the back-end application. So to this application I build an API with his concepts and methods.
 
 
 ## Language
@@ -30,4 +30,4 @@ As I mentioned I used JavaScript in my crud. Also the new features of EcmaScript
 - Enjoy the application.
 ---
 :green_heart::green_heart::green_heart:
-[etoledo44]([https://www.linkedin.com/in/eriquetoledo/](https://www.linkedin.com/in/eriquetoledo/))
+[etoledo44](https://www.linkedin.com/in/eriquetoledo/))
