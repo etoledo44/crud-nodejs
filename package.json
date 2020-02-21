@@ -1,0 +1,21 @@
+{
+  "name": "Node",
+  "version": "1.0.0",
+  "description": "Crud using node",
+  "main": "index.js",
+  "author": "etoledo44",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.4"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "nodemon": "^2.0.2",
+    "sequelize-cli": "^5.5.1"
+  }
+}
