@@ -1,6 +1,6 @@
 # API Crud
 
-Hi! This is my project using JavaScript and I used **node.js** :green_heart: for the back-end application. So to this application I build an API with his concepts and methods.
+Hi! This is my project using JavaScript and **node.js** :green_heart: for the back-end application. So to this application I build an API with its concepts and methods.
 
 
 ## Language
